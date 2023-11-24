@@ -12,4 +12,4 @@ This is a fullstack project builded using Django API + Angular 16 + SQLite. The 
 	
 	> ng serve --open
 * You should see this site:
-![site image](src/assets/site.PNG);
+![site image](src/assets/site.PNG)
